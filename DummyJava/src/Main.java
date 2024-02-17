@@ -4,5 +4,6 @@ public class Main {
         // to see how IntelliJ IDEA suggests fixing it.
         System.out.print("Hello and welcome!");
 
+        System.out.println("Hallo und wilkommen!");
     }
 }
